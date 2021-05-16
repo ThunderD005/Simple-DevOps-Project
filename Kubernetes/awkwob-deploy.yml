@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: awkwob-devops-project
-        image: thunder005/simple-devops-image
+        image: thunder005/simple-devops-demo
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
